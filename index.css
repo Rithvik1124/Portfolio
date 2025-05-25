@@ -1,4 +1,3 @@
-/* Remove luxury background and apply pexels to the whole body */
 body.full-background {
   margin: 0;
   padding: 0;
@@ -11,7 +10,6 @@ body.full-background {
   min-height: 100vh;
 }
 
-/* Stretch content a bit wider */
 .hero-content.wide {
   max-width: 900px;
   background-color: rgba(0, 0, 0, 0.8);
@@ -22,12 +20,10 @@ body.full-background {
   line-height: 1.6;
 }
 
-/* Optional: add consistent spacing */
 .full-page {
   padding: 60px 20px;
 }
 
-/* Keep heading style */
 .hero-content h1 {
   font-size: 3.5rem;
   margin-bottom: 10px;
@@ -40,7 +36,6 @@ body.full-background {
   margin-bottom: 20px;
 }
 
-/* Contact section reuses your existing style */
 .contact {
   padding: 20px;
   text-align: center;
