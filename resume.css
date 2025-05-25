@@ -47,7 +47,7 @@ body {
   background-color: #5c4033;
   max-width: 1000px;
   margin: 0 auto;
-  padding: 15px 0; /* Remove horizontal padding */
+  padding: 15px 0; 
   box-shadow: 0 0 10px rgba(0, 0, 0, 0.8);
   border-radius: 10px;
 }
@@ -57,7 +57,7 @@ section {
   border-radius: 10px;
   margin: 20px auto;
   padding: 30px;
-  width: calc(100% - 40px); /* prevent overflow from padding */
+  width: calc(100% - 40px); 
   box-sizing: border-box;
 }
 
